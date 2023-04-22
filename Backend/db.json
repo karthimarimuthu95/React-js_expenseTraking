@@ -1,0 +1,87 @@
+{
+  "registration": [
+    {
+      "firstName": "",
+      "email": "",
+      "password": "",
+      "id": 1
+    },
+    {
+      "firstName": "Karthi",
+      "lastName": "m",
+      "email": "karthiit8@gmail.com",
+      "password": "sudhan",
+      "id": 2
+    },
+    {
+      "firstName": "Karthi",
+      "lastName": "m",
+      "email": "karthibsc017@gmail.com",
+      "password": "santhi",
+      "id": 3
+    },
+    {
+      "firstName": "sudhan",
+      "lastName": "Karthi",
+      "email": "sudhan@gmail.com",
+      "password": "sudhansanthi",
+      "id": 4
+    }
+  ],
+  "book": [
+    {
+      "expname": "santhi sudhan",
+      "exptype": "Movie",
+      "expamount": "555",
+      "paymentType": "Card",
+      "expDate": "2023-05-06",
+      "email": "karthibsc017@gmail.com",
+      "id": 14
+    },
+    {
+      "expname": "0p i7 s",
+      "exptype": "Snacks",
+      "expamount": "5454",
+      "paymentType": "Cash",
+      "expDate": "2023-04-17",
+      "email": null,
+      "id": 17
+    },
+    {
+      "expname": "0p i7 s",
+      "exptype": "Snacks",
+      "expamount": "56646",
+      "paymentType": "Account Transfer",
+      "expDate": "2023-04-11",
+      "email": null,
+      "id": 18
+    },
+    {
+      "expname": "Samsung F23",
+      "exptype": "Groceries",
+      "expamount": "15",
+      "paymentType": "Card",
+      "expDate": "2023-04-01",
+      "email": "karthiit8@gmail.com",
+      "id": 19
+    },
+    {
+      "expname": "Samsung F23",
+      "exptype": "Toys",
+      "expamount": "15000",
+      "paymentType": "UPI",
+      "expDate": "2023-04-22",
+      "email": "karthibsc017@gmail.com",
+      "id": 20
+    },
+    {
+      "expname": "movie",
+      "exptype": "Movie",
+      "expamount": "568",
+      "paymentType": "UPI",
+      "expDate": "2023-04-08",
+      "email": "karthibsc017@gmail.com",
+      "id": 21
+    }
+  ]
+}
